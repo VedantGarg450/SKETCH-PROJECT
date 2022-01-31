@@ -1,0 +1,40 @@
+body{
+    background-color: goldenrod;
+}
+#heading{
+    color: rgb(0, 0, 0);
+    font-family:cursive
+}
+.modal-header{
+    background-color: white;
+}
+#show_sketch{
+    background-color: white;
+}
+#prediction{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+#confidence{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+#challenge{
+    color: rgb(255, 238, 0);
+    font-weight: bold;
+    font-size: 20px;
+}
+#SCORE{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 1400px;
+}
+#TIMER{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 1400px;
+}
